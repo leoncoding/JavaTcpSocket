@@ -145,7 +145,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	}
 
 	/**
-	 * 清空接收框
+	 * 清空接收框   leonceshushu
 	 */
 	private void clear() {
 		new AlertDialog.Builder(this).setTitle("确认清除?")
